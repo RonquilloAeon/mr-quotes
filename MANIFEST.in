@@ -1,0 +1,2 @@
+include src/migrations/*.py
+include src/migrations/*.sql
